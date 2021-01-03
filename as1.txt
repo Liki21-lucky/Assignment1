@@ -1,0 +1,11 @@
+ASSIGNMENT-1
+
+question 1
+a) time complexity is O(n^2)
+both the inner and outer loops execute n times soo O(n^2)
+
+ 
+b)time complexity is O(nlog(3^n))
+
+for outer loop it executes an O(log3^n)
+and for inner  loop it executes  n times
